@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "598856854464",
+    "project_id": "babyhubapp",
+    "storage_bucket": "babyhubapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598856854464:android:1c2a4f32d831e1b4faf625",
+        "android_client_info": {
+          "package_name": "com.example.babyhub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598856854464-53ascnt0j8ce0rjreduaq7nbe3uj49bs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.babyhub",
+            "certificate_hash": "bbe27c29ba24b800ef021df3bb8cb5800751ea48"
+          }
+        },
+        {
+          "client_id": "598856854464-mgp1pici51eg8f6gstqh9v9q5upkf49j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlgUCBHdgkqk72yaDwOC9UngGQA5wGK4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598856854464-mgp1pici51eg8f6gstqh9v9q5upkf49j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "598856854464-4m615pqtmsmsr6k5q7qr67l39jg4hbir.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.babyhub"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
